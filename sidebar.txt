@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kav:home|Door43 (kav)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kav|d43-kav repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kav/archive/master.zip|d43-kav.zip]]
+
+**Recent Changes**
+{{changes>ns = kav}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kav|Ethnologue data]]
+
